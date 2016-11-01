@@ -12,7 +12,8 @@
     "siteurl": "http://www.ialearn.co.za/iba",
     "demo_sites": {},
     "notifications_enabled": true,
-    "gcmpn": "694767596569"
+    "gcmpn": "694767596569" ,
+    "customurlscheme": "moodlemobile"
 }
 
 
