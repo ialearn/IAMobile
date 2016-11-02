@@ -21,7 +21,7 @@
 
     <gap:platform name="ios" />
     <gap:platform name="android" />
-
+    <gap:plugin name="org.apache.cordova.splashscreen" />
     <access origin="*" />
     <access origin="tel:*" launch-external="yes" />
     <access origin="mailto:*" launch-external="yes" />
